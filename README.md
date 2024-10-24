@@ -13,9 +13,9 @@ Etapas GITHUB
 	3.2 - Sincronizar - Modificar o arquivo, sem analisar.
 
 4 - Criar um Issue(Tarefa/Problema)
-	4.1 - Criars
-	4.2 - Submeter 
-	4.3 - Em Desenvolvimento, clique em criar uma nova Branch
-	4.4 - Copiar os comandos, Exemplo: 
-		git fetch origin
-		git checkout 1-estruturar-o-html
+4.1 - Criars
+4.2 - Submeter 
+4.3 - Em Desenvolvimento, clique em criar uma nova Branch
+4.4 - Copiar os comandos, Exemplo: 
+git fetch origin
+git checkout 1-estruturar-o-html
